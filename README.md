@@ -64,21 +64,21 @@ Your finished project must include all of the following requirements:
 
 ### Required best practices
 
-- [ ] Consistent naming. Examples: variables, functions, Components, and file/folder organization.
-- [ ] Consistent spacing. Examples: line breaks, around arguments and before/after functions.
-- [ ] Consistent quotation usage.
-- [ ] Spell-check.
-- [ ] Schedule time to review, refine and reassess your work.
+- [X] Consistent naming. Examples: variables, functions, Components, and file/folder organization.
+- [X] Consistent spacing. Examples: line breaks, around arguments and before/after functions.
+- [X] Consistent quotation usage.
+- [X] Spell-check.
+- [X] Schedule time to review, refine and reassess your work.
 
 It is better to submit a challenge that meets [MVP](https://en.wikipedia.org/wiki/Minimum_viable_product) than one that attempts too much and fails.
 
 ### Tips and Gotchas
 
-- [ ] Test your API and inspect the data in Chrome, _before_ writing the code for the request(s). See screenshots at the root of the project.
-- [ ] Try not to hammer your API while developing. Infinite loops in your code might trigger hundreds of requests!
-- [ ] The Pokemon API is a slightly harder challenge because a single network request might not be enough to get all the data you want.
-- [ ] Running `npm` commands in the wrong folder will not work. **Be aware of what folder you're in** when working in the command line.
-- [ ] The `start` process can sometimes choke after adding new dependencies and may need to be restarted.
+- [X] Test your API and inspect the data in Chrome, _before_ writing the code for the request(s). See screenshots at the root of the project.
+- [X] Try not to hammer your API while developing. Infinite loops in your code might trigger hundreds of requests!
+- [X] The Pokemon API is a slightly harder challenge because a single network request might not be enough to get all the data you want.
+- [X] Running `npm` commands in the wrong folder will not work. **Be aware of what folder you're in** when working in the command line.
+- [X] The `start` process can sometimes choke after adding new dependencies and may need to be restarted.
 
 ## Stretch Problems
 
