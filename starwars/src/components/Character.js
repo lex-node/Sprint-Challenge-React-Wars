@@ -6,7 +6,7 @@ const Character = (props) => {
         <div>
             {
                 props.characters.map((character) =>
-                    <Card style={{margin: `60px`, backgroundColor: `rgb(152, 152, 152, 0.7)`}}>
+                    <Card style={{margin: `60px`, backgroundColor: `rgb(152, 152, 152, 0.7)`}} key={character.url}>
                         <CardBody style={{borderStyle: `solid`, padding: `5px`}}>
                             <CardTitle><h2>{character.name}</h2></CardTitle>
                             <CardSubtitle><h3>{character.birth_year}, {character.gender}</h3></CardSubtitle>
